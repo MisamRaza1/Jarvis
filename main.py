@@ -8,7 +8,7 @@ from secrets import GoogleApi
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-API_KEY ="40722638d51043a08593002edc715208"
+API_KEY ="Your_Api_Key"
 
 
 def speak(text,speed):
